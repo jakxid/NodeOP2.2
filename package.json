@@ -1,0 +1,25 @@
+{
+  "name": "op",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --outDir build/ index.ts && node build/index.js",
+    "build": "tsc --outDir build/ index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.24",
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^20.9.4",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "audio-converter": "^1.0.13",
+    "fast-xml-parser": "^4.3.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "lodash": "^4.17.21",
+    "node-id3": "^0.2.6"
+  }
+}

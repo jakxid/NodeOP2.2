@@ -1,0 +1,674 @@
+	<string id="ogg_flash_inv_1">
+		<rus>Музыкальная флеш-карта от Сидоровича.</rus>
+		<eng>Music flash card from Sidorovich.</eng>
+		<ukr>Музикальна флеш-карта від Сидоровича.</ukr>
+	</string>
+	<string id="flash_1_track_1">
+		<rus>Кураж – Вечный праздник</rus>
+	</string>		
+	<string id="flash_1_track_2">
+		<rus>Modern Talking - You're My Heart, You're My Soul</rus>
+	</string>		
+	<string id="flash_1_track_3">
+		<rus>Чайф - Аргентина-Ямайка 5:0</rus>
+	</string>		
+	<string id="flash_1_track_4">		
+		<rus>Def Leppard - Pour Some Sugar On Me</rus>
+	</string>		
+	<string id="flash_1_track_5">		
+		<rus>Бардовская - За туманом</rus>
+	</string>		
+	<string id="flash_1_track_6">		
+		<rus>Pupo - Su Di Noi</rus>
+	</string>		
+	<string id="flash_1_track_7">		
+		<rus>Август - Демон</rus>
+	</string>		
+	<string id="flash_1_track_8">		
+		<rus>Roxette - Queen Of Rain</rus>
+	</string>		
+	<string id="flash_1_track_9">		
+		<rus>Биоконструктор - Трамвай</rus>
+	</string>		
+	<string id="flash_1_track_10">		
+		<rus>Bon Jovi - Bed Of Roses</rus>
+	</string>		
+	<string id="flash_1_track_11">		
+		<rus>Технология - Странные танцы</rus>
+	</string>		
+	<string id="flash_1_track_12">		
+		<rus>Sandra - Stop For A Minute</rus>
+	</string>		
+
+	<string id="ogg_flash_inv_2">
+		<rus>Музыкальная флеш-карта от Бармена.</rus>
+		<eng>Music flash card from the Barkeeper.</eng>
+		<ukr>Музикальна флеш-карта від Бармена.</ukr>
+	</string>
+	<string id="flash_2_track_1">
+		<rus>Король и Шут - Танец злобного гения</rus>
+	</string>		
+	<string id="flash_2_track_2">	
+		<rus>Julee Cruise - Falling</rus>
+	</string>		
+	<string id="flash_2_track_3">	
+		<rus>Альянс - Воспоминания</rus>
+	</string>		
+	<string id="flash_2_track_4">			
+		<rus>Scorpions - Passion Rules The Game</rus>
+	</string>		
+	<string id="flash_2_track_5">			
+		<rus>Високосный год - Тихий огонек</rus>
+	</string>		
+	<string id="flash_2_track_6">			
+		<rus>Pet Shop Boys - Opportunities</rus>
+	</string>		
+	<string id="flash_2_track_7">			
+		<rus>Ария - Свобода</rus>
+	</string>		
+	<string id="flash_2_track_8">			
+		<rus>Blue System - Sorry Little Sarah</rus>
+	</string>		
+	<string id="flash_2_track_9">			
+		<rus>Жуки - Танкист</rus>
+	</string>		
+	<string id="flash_2_track_10">			
+		<rus>Scorpions - Send Me An Angel</rus>
+	</string>		
+	<string id="flash_2_track_11">			
+		<rus>Альянс - Фальстарт</rus>
+	</string>		
+	<string id="flash_2_track_12">			
+		<rus>Masquerade - Guardian Angel</rus>
+	</string>		
+			
+	<string id="ogg_flash_inv_3">
+		<rus>Музыкальная флеш-карта от Долга.</rus>
+		<eng>Music from the flash card from Duty.</eng>
+		<ukr>Музикальна флеш-карта від Долгу.</ukr>
+	</string>
+	<string id="flash_3_track_1">
+		<rus>Автограф - Город</rus>
+	</string>		
+	<string id="flash_3_track_2">
+		<rus>Sandra - Midnight Man</rus>
+	</string>		
+	<string id="flash_3_track_3">
+		<rus>Скрябін - Шось зимно</rus>
+	</string>		
+	<string id="flash_3_track_4">
+		<rus>Scorpions - Follow Your Heart</rus>
+	</string>		
+	<string id="flash_3_track_5">
+		<rus>Альянс - На заре</rus>
+	</string>		
+	<string id="flash_3_track_6">
+		<rus>Bad Boys Blue - Don't Walk Away, Suzanne</rus>
+	</string>		
+	<string id="flash_3_track_7">
+		<rus>Король и Шут - Гимн шута</rus>
+	</string>		
+	<string id="flash_3_track_8">
+		<rus>Agnetha Faltskog - The Last Time</rus>
+	</string>		
+	<string id="flash_3_track_9">
+		<rus>Гоша Куценко - Капли</rus>
+	</string>		
+	<string id="flash_3_track_10">
+		<rus>Europe - Little Bit Of Lovin'</rus>
+	</string>		
+	<string id="flash_3_track_11">
+		<rus>Скрябін - Холодний смак</rus>
+	</string>		
+	<string id="flash_3_track_12">
+		<rus>Corynne Charby - Pile Ou Face</rus>
+	</string>		
+	
+	<string id="ogg_flash_inv_4">
+		<rus>Музыкальная флеш-карта от Свободы.</rus>
+		<eng>Music flash card from Freedom.</eng>
+		<ukr>Музикальна флеш-карта від Волі.</ukr>
+	</string>
+	<string id="flash_4_track_1">
+		<rus>Кино - Попробуй спеть вместе со мной</rus>
+	</string>		
+	<string id="flash_4_track_2">	
+		<rus>Roxette - It Must Have Been Love</rus>
+	</string>		
+	<string id="flash_4_track_3">			
+		<rus>Владимир Пресняков - Папа, ты сам был таким</rus>
+	</string>		
+	<string id="flash_4_track_4">			
+		<rus>Nightwish - Sleeping Sun</rus>
+	</string>		
+	<string id="flash_4_track_5">			
+		<rus>Александр Градский - Наш старый дом</rus>
+	</string>		
+	<string id="flash_4_track_6">			
+		<rus>Fancy - Flames Of Love</rus>
+	</string>		
+	<string id="flash_4_track_7">			
+		<rus>Джокер - Магия</rus>
+	</string>		
+	<string id="flash_4_track_8">			
+		<rus>Eurythmics - Sweet Dreams</rus>
+	</string>		
+	<string id="flash_4_track_9">			
+		<rus>Галактика - Зимняя ночь</rus>
+	</string>		
+	<string id="flash_4_track_10">			
+		<rus>Nightwish - Wishmaster</rus>
+	</string>		
+	<string id="flash_4_track_11">			
+		<rus>Макsим - Знаешь ли ты</rus>
+	</string>		
+	<string id="flash_4_track_12">
+		<rus>Modern Talking - You Can Win If You Want</rus>
+	</string>		
+	
+	<string id="ogg_flash_inv_5">
+		<rus>Музыкальная флеш-карта, изъятая у Бандитов.</rus>
+		<eng>Music flash card, seized from Bandits.</eng>
+		<ukr>Музикальна флеш-карта конфіскована у Бандитів.</ukr>
+	</string>	
+	<string id="flash_5_track_1">
+		<rus>Король и Шут - Кукла колдуна</rus>
+	</string>
+	<string id="flash_5_track_2">
+		<rus>Imagination - Just An Illusion</rus>
+	</string>
+	<string id="flash_5_track_3">
+		<rus>Биоконструктор - Техноромантики</rus>
+	</string>
+	<string id="flash_5_track_4">
+		<rus>Def Leppard - Love Bites</rus>
+	</string>
+	<string id="flash_5_track_5">
+		<rus>Макsим - Трудный возраст</rus>
+	</string>
+	<string id="flash_5_track_6">
+		<rus>Bonnie Tyler - Total Eclipse Of The Heart</rus>
+	</string>
+	<string id="flash_5_track_7">
+		<rus>Кино - Звёзды останутся здесь</rus>
+	</string>
+	<string id="flash_5_track_8">
+		<rus>Blue System - Under My Skin</rus>
+	</string>
+	<string id="flash_5_track_9">
+		<rus>Баста - Моя игра</rus>
+	</string>
+	<string id="flash_5_track_10">
+		<rus>Dire Straits - Money For Nothing</rus>
+	</string>
+	<string id="flash_5_track_11">
+		<rus>Скрябін - 100 годин</rus>
+	</string>
+	<string id="flash_5_track_12">
+		<rus>Camouflage - The Great Commandment</rus>
+	</string>
+
+	<string id="ogg_flash_inv_6">
+		<rus>Музыкальная флеш-карта от Сяка.</rus>
+		<eng>Music flash card from Syak.</eng>
+		<ukr>Музикальна флеш-карта від Сяка.</ukr>
+	</string>
+	<string id="flash_6_track_1">
+		<rus>Король и Шут - Проклятый старый дом</rus>
+	</string>		
+	<string id="flash_6_track_2">
+		<rus>Chris Rea - Josephine</rus>
+	</string>		
+	<string id="flash_6_track_3">		
+		<rus>Мумий Тролль - Медведица</rus>
+	</string>		
+	<string id="flash_6_track_4">		
+		<rus>Theory Of A Deadman - Santa Monica</rus>
+	</string>		
+	<string id="flash_6_track_5">		
+		<rus>Вячеслав Бутусов - Девушка по городу</rus>
+	</string>		
+	<string id="flash_6_track_6">		
+		<rus>Secret Service - Flash In The Night</rus>
+	</string>		
+	<string id="flash_6_track_7">		
+		<rus>Кино - Стук</rus>
+	</string>		
+	<string id="flash_6_track_8">		
+		<rus>Bad Boys Blue - Lady In Black</rus>
+	</string>		
+	<string id="flash_6_track_9">		
+		<rus>Альянс - Смерти нет</rus>
+	</string>		
+	<string id="flash_6_track_10">		
+		<rus>Ray Parker - Ghostbusters</rus>
+	</string>		
+	<string id="flash_6_track_11">		
+		<rus>Круиз - Иди же с нами</rus>
+	</string>		
+	<string id="flash_6_track_12">		
+		<rus>Samantha Fox - Touch Me</rus>
+	</string>
+		
+	<string id="ogg_flash_inv_7">
+		<rus>Музыкальная флеш-карта №7</rus>
+		<eng>Music flash card №7</eng>
+		<ukr>Музикальна флеш-карта №7</ukr>
+	</string>
+	<string id="flash_7_track_1">
+		<rus>Кино - Место для шага вперед</rus>
+	</string>		
+	<string id="flash_7_track_2">
+		<rus>David Bowie - Let's Dance</rus>
+	</string>		
+	<string id="flash_7_track_3">
+		<rus>Сектор Газа - Колхозный панк</rus>
+	</string>		
+	<string id="flash_7_track_4">
+		<rus>Scorpions - Lorelei</rus>
+	</string>		
+	<string id="flash_7_track_5">
+		<rus>Алиса - Дождь</rus>
+	</string>		
+	<string id="flash_7_track_6">
+		<rus>Corynne Charby - Boule De Flipper</rus>
+	</string>		
+	<string id="flash_7_track_7">
+		<rus>Король и Шут - Мастер приглашает в гости</rus>
+	</string>		
+	<string id="flash_7_track_8">
+		<rus>Manu Chao - Bongo Bong</rus>
+	</string>		
+	<string id="flash_7_track_9">
+		<rus>Биоконструктор - Бетонный рай</rus>
+	</string>		
+	<string id="flash_7_track_10">
+		<rus>Motley Crue - Wild Side</rus>
+	</string>		
+	<string id="flash_7_track_11">
+		<rus>Агата Кристи - Сказочная тайга</rus>
+	</string>
+	<string id="flash_7_track_12">	
+		<rus>Cutting Crew - I Just Died In Your Arms Tonight</rus>
+	</string>
+	
+	<string id="ogg_flash_inv_8">
+		<rus>Музыкальная флеш-карта №8</rus>
+		<eng>Music flash card №8</eng>
+		<ukr>Музикальна флеш-карта №8</ukr>
+	</string>
+	<string id="flash_8_track_1">	
+		<rus>Август - Металл</rus>
+	</string>
+	<string id="flash_8_track_2">
+		<rus>Tanita Tikaram - Twist In My Sobriety</rus>
+	</string>
+	<string id="flash_8_track_3">		
+		<rus>Алиса - Веретено</rus>
+	</string>
+	<string id="flash_8_track_4">		
+		<rus>Scorpions - Believe In Love</rus>
+	</string>
+	<string id="flash_8_track_5">		
+		<rus>Агата Кристи - Ближе</rus>
+	</string>
+	<string id="flash_8_track_6">		
+		<rus>Modern Talking - Brother Louie</rus>
+	</string>
+	<string id="flash_8_track_7">		
+		<rus>Кино - Видели ночь</rus>
+	</string>
+	<string id="flash_8_track_8">		
+		<rus>Laura Branigan - Self Control</rus>
+	</string>
+	<string id="flash_8_track_9">		
+		<rus>ДДТ - Просвистела</rus>
+	</string>
+	<string id="flash_8_track_10">		
+		<rus>Europe - The Final Countdown</rus>
+	</string>
+	<string id="flash_8_track_11">		
+		<rus>Сектор Газа - Песенка</rus>
+	</string>
+	<string id="flash_8_track_12">		
+		<rus>Space - Just Blue</rus>
+	</string>
+
+	<string id="ogg_flash_inv_9">
+		<rus>Музыкальная флеш-карта №9</rus>
+		<eng>Music flash card №9</eng>
+		<ukr>Музикальна флеш-карта №9</ukr>
+	</string>
+	<string id="flash_9_track_1">
+		<rus>Король и Шут - Блуждают тени</rus>
+	</string>
+	<string id="flash_9_track_2">		
+		<rus>Nazareth - Love Hurts</rus>
+	</string>
+	<string id="flash_9_track_3">		
+		<rus>ДДТ - В последнюю осень</rus>
+	</string>
+	<string id="flash_9_track_4">		
+		<rus>Jonny Cash - House Of The Rising Sun</rus>
+	</string>
+	<string id="flash_9_track_5">		
+		<rus>Биоконструктор - Биоконструктор</rus>
+	</string>
+	<string id="flash_9_track_6">		
+		<rus>Depeche Mode - Question Of Time</rus>
+	</string>
+	<string id="flash_9_track_7">		
+		<rus>Виктор Цой - Легенда</rus>
+	</string>
+	<string id="flash_9_track_8">		
+		<rus>Eric Prydz vs. Floyd - Proper Education</rus>
+	</string>
+	<string id="flash_9_track_9">		
+		<rus>Автограф - Колокол</rus>
+	</string>
+	<string id="flash_9_track_10">		
+		<rus>The Cranberries - Zombie</rus>
+	</string>
+	<string id="flash_9_track_11">		
+		<rus>Биоконструктор - Бюрократ</rus>
+	</string>
+	<string id="flash_9_track_12">		
+		<rus>Bon Jovi - Livin' On A Prayer</rus>
+	</string>
+		
+	<string id="ogg_flash_inv_10">
+		<rus>Музыкальная флеш-карта №10</rus>
+		<eng>Music flash card №10</eng>
+		<ukr>Музикальна флеш-карта №10</ukr>
+	</string>
+	<string id="flash_10_track_1">
+		<rus>Кураж - Сладостно и страшно</rus>
+	</string>
+	<string id="flash_10_track_2">
+		<rus>Depeche Mode - Behind The Wheel</rus>
+	</string>
+	<string id="flash_10_track_3">		
+		<rus>Автограф - Мастер</rus>
+	</string>
+	<string id="flash_10_track_4">		
+		<rus>Nightwish - Away</rus>
+	</string>
+	<string id="flash_10_track_5">		
+		<rus>Биоконструктор - Гравитатор</rus>
+	</string>
+	<string id="flash_10_track_6">		
+		<rus>Rob Zombie - Dragula</rus>
+	</string>
+	<string id="flash_10_track_7">		
+		<rus>Александр Градский - Вот так папа пел</rus>
+	</string>
+	<string id="flash_10_track_8">		
+		<rus>Gorky Park - Stranger</rus>
+	</string>
+	<string id="flash_10_track_9">		
+		<rus>Кино - Нам с тобой</rus>
+	</string>
+	<string id="flash_10_track_10">		
+		<rus>Gorky Park - Moscow Calling</rus>
+	</string>
+	<string id="flash_10_track_11">		
+		<rus>Август - Рок-н-Ролл</rus>
+	</string>
+	<string id="flash_10_track_12">		
+		<rus>Gorky Park - My Generation</rus>
+	</string>
+
+	<string id="ogg_flash_inv_11">
+		<rus>Музыкальная флеш-карта №11</rus>
+		<eng>Music flash card №11</eng>
+		<ukr>Музикальна флеш-карта №11</ukr>
+	</string>
+	<string id="flash_11_track_1">
+		<rus>Gorky Park - Bang!</rus>
+	</string>		
+	<string id="flash_11_track_2">		
+		<rus>Король и Шут - Прыгну со скалы</rus>
+	</string>		
+	<string id="flash_11_track_3">				
+		<rus>Кукрыниксы - Не беда</rus>
+	</string>		
+	<string id="flash_11_track_4">				
+		<rus>Кино - Группа крови</rus>
+	</string>		
+	<string id="flash_11_track_5">				
+		<rus>Король и Шут - Маска</rus>
+	</string>		
+	<string id="flash_11_track_6">				
+		<rus>Мастер - Кресты</rus>
+	</string>		
+	<string id="flash_11_track_7">				
+		<rus>Кино - Последний герой</rus>
+	</string>		
+	<string id="flash_11_track_8">				
+		<rus>Кукрыниксы – Звезда</rus>
+	</string>		
+	<string id="flash_11_track_9">				
+		<rus>Скрябін - Остання сигарета</rus>
+	</string>		
+	<string id="flash_11_track_10">				
+		<rus>Джокер - Черный тюльпан</rus>
+	</string>		
+	<string id="flash_11_track_11">				
+		<rus>Скрябін - Квінти</rus>
+	</string>		
+	<string id="flash_11_track_12">				
+		<rus>Кино - Следи за собой</rus>
+	</string>		
+		
+	<string id="ogg_flash_inv_12">
+		<rus>Музыкальная флеш-карта №12</rus>
+		<eng>Music flash card №12</eng>
+		<ukr>Музикальна флеш-карта №12</ukr>
+	</string>
+	<string id="flash_12_track_1">
+		<rus>Круиз - Рок навсегда!</rus>
+	</string>
+	<string id="flash_12_track_2">		
+		<rus>Кукрыниксы - Движение</rus>
+	</string>
+	<string id="flash_12_track_3">				
+		<rus>Диалог - Не уходи, мой ангел</rus>
+	</string>
+	<string id="flash_12_track_4">				
+		<rus>Галактика - Пока!</rus>
+	</string>
+	<string id="flash_12_track_5">				
+		<rus>Кино - Красно-жёлтые дни</rus>
+	</string>
+	<string id="flash_12_track_6">				
+		<rus>Джокер - На волю в пампасы</rus>
+	</string>
+	<string id="flash_12_track_7">				
+		<rus>Король и Шут - От женщин кругом голова</rus>
+	</string>
+	<string id="flash_12_track_8">				
+		<rus>Круиз - Последний рассвет</rus>
+	</string>
+	<string id="flash_12_track_9">				
+		<rus>Наив - Суперзвезда</rus>
+	</string>
+	<string id="flash_12_track_10">				
+		<rus>Стас Намин и гр. Цветы - Час пик</rus>
+	</string>
+	<string id="flash_12_track_11">				
+		<rus>Джокер - Замок</rus>
+	</string>
+	<string id="flash_12_track_12">				
+		<rus>Кино - Мы хотим танцевать</rus>
+	</string>
+	
+	<string id="ogg_flash_inv_13">
+		<rus>Музыкальная флеш-карта №13</rus>
+		<eng>Music flash card №13</eng>
+		<ukr>Музикальна флеш-карта №13</ukr>
+	</string>
+	<string id="flash_13_track_1">
+		<rus>Альянс - Мама, укрой</rus>
+	</string>		
+	<string id="flash_13_track_2">
+		<rus>Галактика - Консуэло</rus>
+	</string>		
+	<string id="flash_13_track_3">		
+		<rus>Джокер - Слушай маму, дура!</rus>
+	</string>		
+	<string id="flash_13_track_4">		
+		<rus>Король и Шут - Дочь Вурдалака</rus>
+	</string>		
+	<string id="flash_13_track_5">		
+		<rus>Кураж - Блюз российских снегов</rus>
+	</string>		
+	<string id="flash_13_track_6">		
+		<rus>Диалог - Дворец заката</rus>
+	</string>		
+	<string id="flash_13_track_7">		
+		<rus>Галактика - От Винницы до Ниццы</rus>
+	</string>		
+	<string id="flash_13_track_8">		
+		<rus>Август - Судите сами</rus>
+	</string>		
+	<string id="flash_13_track_9">		
+		<rus>Виктор Цой - Троллейбус</rus>
+	</string>		
+	<string id="flash_13_track_10">		
+		<rus>Альянс - Дайте огня</rus>
+	</string>		
+	<string id="flash_13_track_11">		
+		<rus>Диалог - Конопляная нить</rus>
+	</string>		
+	<string id="flash_13_track_12">		
+		<rus>СерьГа - А что нам надо</rus>
+	</string>		
+		
+	<string id="ogg_flash_inv_14">
+		<rus>Музыкальная флеш-карта №14</rus>
+		<eng>Music flash card №14</eng>
+		<ukr>Музикальна флеш-карта №14</ukr>
+	</string>
+	<string id="flash_14_track_1">
+		<rus>Король и Шут - Дагон</rus>
+	</string>		
+	<string id="flash_14_track_2">		
+		<rus>Автограф - Амур</rus>
+	</string>		
+	<string id="flash_14_track_3">				
+		<rus>Кино - Твой номер</rus>
+	</string>		
+	<string id="flash_14_track_4">				
+		<rus>Джокер - Нет козырей</rus>
+	</string>		
+	<string id="flash_14_track_5">				
+		<rus>Кураж - Мама</rus>
+	</string>		
+	<string id="flash_14_track_6">				
+		<rus>Автограф - О, мой мальчик</rus>
+	</string>		
+	<string id="flash_14_track_7">				
+		<rus>Король и Шут - Садовник</rus>
+	</string>		
+	<string id="flash_14_track_8">				
+		<rus>Кино - Песня без слов</rus>
+	</string>		
+	<string id="flash_14_track_9">				
+		<rus>Джокер - Дама пик</rus>
+	</string>		
+	<string id="flash_14_track_10">				
+		<rus>Кино - Кончится лето</rus>
+	</string>		
+	<string id="flash_14_track_11">				
+		<rus>Кукрыниксы - Надежда</rus>
+	</string>		
+	<string id="flash_14_track_12">				
+		<rus>Сектор Газа - Лирика</rus>
+	</string>		
+		
+	<string id="ogg_flash_inv_15">
+		<rus>Музыкальная флеш-карта №15</rus>
+		<eng>Music flash card №15</eng>
+		<ukr>Музикальна флеш-карта №15</ukr>
+	</string>
+	<string id="flash_15_track_1">
+		<rus>Автограф - Каменный край</rus>
+	</string>		
+	<string id="flash_15_track_2">
+		<rus>Диалог - Красный рок</rus>
+	</string>		
+	<string id="flash_15_track_3">		
+		<rus>Круиз - Случилось</rus>
+	</string>		
+	<string id="flash_15_track_4">		
+		<rus>Кураж - Прощай</rus>
+	</string>		
+	<string id="flash_15_track_5">		
+		<rus>Автограф - Я люблю</rus>
+	</string>		
+	<string id="flash_15_track_6">		
+		<rus>Август - Дорога в никуда</rus>
+	</string>		
+	<string id="flash_15_track_7">		
+		<rus>Кураж - Уходит ночь</rus>
+	</string>		
+	<string id="flash_15_track_8">		
+		<rus>Джокер - Эй, вождь!</rus>
+	</string>		
+	<string id="flash_15_track_9">		
+		<rus>Автограф - Странник</rus>
+	</string>		
+	<string id="flash_15_track_10">		
+		<rus>Король и Шут - Валет и дама</rus>
+	</string>		
+	<string id="flash_15_track_11">		
+		<rus>Гран-КуражЪ - Мир бумажных королей</rus>
+	</string>		
+	<string id="flash_15_track_12">		
+		<rus>Эпидемия - Звон монет</rus>
+	</string>		
+		
+	<string id="ogg_flash_inv_16">
+		<rus>Музыкальная флеш-карта №16</rus>
+		<eng>Music flash card №16</eng>
+		<ukr>Музикальна флеш-карта №16</ukr>
+	</string>
+	<string id="flash_16_track_1">		
+		<rus>Эпидемия - Чёрный маг</rus>
+	</string>
+	<string id="flash_16_track_2">
+		<rus>Король и Шут - Фокусник</rus>
+	</string>
+	<string id="flash_16_track_3">		
+		<rus>Боевой Расчёт - Сладость моя</rus>
+	</string>
+	<string id="flash_16_track_4">		
+		<rus>Titty Twi5ter - Модная Полиция</rus>
+	</string>
+	<string id="flash_16_track_5">		
+		<rus>Король и Шут - Хозяин леса</rus>
+	</string>
+	<string id="flash_16_track_6">		
+		<rus>Сектор Газа - Сельский туалет</rus>
+	</string>
+	<string id="flash_16_track_7">		
+		<rus>Король и Шут - Марионетки</rus>
+	</string>
+	<string id="flash_16_track_8">		
+		<rus>Сектор Газа - Туман</rus>
+	</string>
+	<string id="flash_16_track_9">		
+		<rus>Эпидемия - Выбор есть!</rus>
+	</string>
+	<string id="flash_16_track_10">		
+		<rus>Боевой Расчёт - Боевой расчёт</rus>
+	</string>
+	<string id="flash_16_track_11">		
+		<rus>Гран-КуражЪ - Птица небесная</rus>
+	</string>
+	<string id="flash_16_track_12">		
+		<rus>Революция - Новое кино</rus>
+	</string>
+		
+
+	

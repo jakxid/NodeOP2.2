@@ -1,0 +1,4 @@
+<string id="ogg_flash_inv_${flashDriveNumber}">
+    <rus>Музыкальная флеш-карта ${authorIsFlashDrive}.</rus>
+</string>
+${content}
